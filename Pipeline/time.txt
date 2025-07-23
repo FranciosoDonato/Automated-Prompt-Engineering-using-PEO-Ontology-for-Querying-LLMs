@@ -1,0 +1,37 @@
+Il tempo impiegato per 100 elementi con DeepSeek per generare la lista delle tecniche senza ontologia ï¿½: 2134.959781885147
+Il tempo impiegato per 100 elementi con Gemini per generare la lista delle tecniche senza ontologia e': 629.6748185157776
+Il tempo impiegato per 100 elementi con Gemini per generare few-shot prompt ï¿½: 660.251115322113
+Il tempo impiegato per 100 elementi con Gemini per testare il few-shot prompt ï¿½: 483.06923270225525
+Il tempo impiegato per 100 elementi con Gemini per generare CoT prompt ï¿½: 693.9954862594604
+Il tempo impiegato per 100 elementi con Gemini per testare il CoT prompt ï¿½: 603.970330953598
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare Few-shot prompt e': 1059.0638453960419
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il Few-shot prompt ï¿½: 638.4512374401093
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare CoT prompt e': 1149.8574233055115
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il CoT prompt ï¿½: 940.4795188903809
+Il tempo impiegato per 100 elementi con Gemini per generare la lista delle tecniche senza ontologia e': 1501.0878059864044
+Il tempo impiegato per 100 elementi con DeepSeek per il plain prompt ï¿½: 508.4663836956024
+Il tempo impiegato per 100 elementi con Gemini per il plain prompt ï¿½: 547.4734451770782
+Il tempo impiegato per 100 elementi con Gemini per generare CoT prompt con ONTO con due caratteristiche ï¿½: 771.02002120018
+Il tempo impiegato per 100 elementi con Gemini per testare il CoT prompt con ONTO con due caratteristiche ï¿½: 589.2999441623688
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare CoT prompt con ONTO con due caratteristiche e': 1768.6938939094543
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il CoT prompt con ONTO con due caratteristiche ï¿½: 1110.2540438175201
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare Few-shot prompt con ONTO con due caratteristiche e': 1742.3673741817474
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il Few-shot prompt con ONTO con due caratteristiche ï¿½: 956.8553781509399
+Il tempo impiegato per 100 elementi con Gemini per generare Few-shot prompt con ONTO con due caratteristicheï¿½: 730.3897051811218
+Il tempo impiegato per 100 elementi con Gemini per testare il Few-shot prompt con ONTO con due caratteristicheï¿½: 548.1345505714417
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare Few-shot prompt con ONTO e tutte le tutte le caratteristiche e': 1461.0487327575684
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il Few-shot prompt con ONTO con tutte le caratteristiche ï¿½: 628.4355673789978
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare CoT prompt con ONTO e tutte le tutte le caratteristiche e': 1120.095359802246
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il CoT prompt con ONTO con tutte le caratteristiche ï¿½: 568.7663609981537
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare Few-shot prompt con ONTO noFormat e': 1170.4753003120422
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il Few-shot prompt con ONTO noFormat ï¿½: 704.6487543582916
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per generare CoT prompt con ONTO noFormat e': 914.4035890102386
+Il tempo impiegato per 100 elementi con deepseek-ai/DeepSeek-V3 per testare il CoT prompt con ONTO noFormat ï¿½: 660.8173673152924
+Il tempo impiegato per 100 elementi con Gemini per generare CoT prompt con ONTO con caratteristiche noFormat ï¿½: 1028.6906077861786
+Il tempo impiegato per 100 elementi con Gemini per testare il CoT prompt con ONTO con caratteristiche noFormat ï¿½: 819.1951875686646
+Il tempo impiegato per 100 elementi con Gemini per generare Few-shot prompt con ONTO con caratteristiche allCharacteristics ï¿½: 740.4463038444519
+Il tempo impiegato per 100 elementi con Gemini per testare il Few-shot prompt con ONTO con caratteristiche allCharacteristics ï¿½: 574.4599556922913
+Il tempo impiegato per 100 elementi con Gemini per generare CoT prompt con ONTO con caratteristiche allCharacteristics ï¿½: 825.4658479690552
+Il tempo impiegato per 100 elementi con Gemini per testare il CoT prompt con ONTO con caratteristiche allCharacteristics ï¿½: 574.8896532058716
+Il tempo impiegato per 100 elementi con Gemini per generare Few-shot prompt con ONTO con caratteristiche noFormat ï¿½: 916.46990275383
+Il tempo impiegato per 100 elementi con Gemini per testare il Few-shot prompt con ONTO con caratteristiche noFormat è: 607.094569683075

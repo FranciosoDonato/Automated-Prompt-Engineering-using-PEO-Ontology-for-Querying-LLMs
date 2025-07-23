@@ -1,0 +1,8 @@
+google.generativeai
+rdflib
+python-dotenv
+datasets
+scikit-learn
+together
+matplotlib
+seaborn
